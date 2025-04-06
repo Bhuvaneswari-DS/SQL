@@ -48,4 +48,3 @@ One of my first big challenges was retrieving all orders along with the books, c
 
 This project was my foundation, and every SQL query I write today traces back to these first steps. Now, I’m excited to build more, explore deeper, and share my journey with others! 🚀
 
-If you’ve ever struggled with SQL, just kno
